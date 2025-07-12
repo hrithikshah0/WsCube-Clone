@@ -42,18 +42,41 @@
         font-size: 1rem;
     }
 
-    .bannerContent-btn{
+    .bannerContent-btn {
         flex-direction: column;
     }
-    .bannerContent-btn a{
+
+    .bannerContent-btn a {
         width: 100%;
         padding: 7px 15px;
     }
-    .banner-form{
-    padding: 20px;
-}
-.highlight-section h2{
-    font-size: 1.75rem;
-}
 
+    .banner-form {
+        padding: 20px;
+    }
+
+    .highlight-section h2 {
+        font-size: 1.75rem;
+        text-align: center;
+    }
+
+    .highlight-main-par {
+        text-align: center;
+    }
+
+    .career-section h2 {
+        font-size: 2rem;
+    }
+
+    .certified-heading h3 {
+        font-size: 1.75rem;
+    }
+
+    .curriculum-header h2 {
+        font-size: 2rem;
+    }
+
+    .curriculum-content li {
+        font-size: 1rem;
+    }
 }
