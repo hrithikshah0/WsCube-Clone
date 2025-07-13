@@ -27,7 +27,6 @@
     }
 
     .banner-content h1 {
-        font-weight: 700;
         font-size: 1.6rem;
         text-align: center;
         line-height: 2rem;
@@ -79,4 +78,29 @@
     .curriculum-content li {
         font-size: 1rem;
     }
+
+    .learning-header h2,
+    .learning-header p {
+        text-align: center;
+    }
+
+    .learning-header h3 {
+        font-size: 2rem;
+    }
+
+    .learning-header p {
+        font-size: 1rem;
+    }
+
+    .start-course h3 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .start-course p {
+        font-size: 1rem;
+    }
+
+
 }
+

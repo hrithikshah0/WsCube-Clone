@@ -151,7 +151,7 @@
 .curriculum-btn .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
     background-color: #F2F4F7;
     color: black;
-    border-bottom: 2px solid #2699FB;
+    border-bottom: 5px solid #2699FB;
 }
 
 .curriculum-content i{
@@ -160,4 +160,62 @@
 .curriculum-content li{
     list-style: none;
     font-size: 1.125rem;
+}
+
+.learning-section{
+    background-color: #F7FAFF;
+}
+.learning-header h2, .learning-header p{
+    text-align: left;
+}
+.learning-header h3{
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+.learning-header p{
+    font-size: 1.125rem;
+}
+.learning-card h4{
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.learning-card p{
+    font-size: 1rem;
+}
+.student-review-header{
+   text-align: center;
+}
+.student-review-header h2{
+    font-size: 2.75rem;
+    font-weight: 700;
+}
+.student-review-header p{
+    font-size: 1.125rem;
+}
+
+.student-details h5{
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.student-details p{
+    font-size: 0.9375rem;
+}
+
+.student-description{
+    font-size: 1.125rem;
+}
+
+.start-course{
+   background: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+.start-course h3{
+    font-size: 2.75rem;
+    font-weight: 700;
+}
+.start-course p{
+    font-size: 1.125rem;
+}
+.start-course a{
+    text-decoration: none;
+    background-color: #ffffff;
 }
