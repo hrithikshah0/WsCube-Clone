@@ -101,6 +101,18 @@
         font-size: 1rem;
     }
 
+    .faq-header h2 {
+        font-size: 2rem;
+    }
 
+    .faq-header p {
+        font-size: 1rem;
+    }
+
+    .top-company-header h2 {
+        font-size: 2rem;
+    }
+    .footer-bottom{
+        margin-bottom: 2.5rem;
+    }
 }
-
